@@ -1,4 +1,4 @@
-# <font color = 'blue'>modulo_alfabeto_grafico<font color = 'white>
+# <fontcolor = 'blue'>modulo_alfabeto_grafico<fontcolor = 'white>
 criação de um modulo grafico com caracteres alfabeticos
 Autor: Marcio Maia
 
