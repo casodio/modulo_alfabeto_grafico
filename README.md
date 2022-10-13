@@ -1,4 +1,3 @@
-# modulo_alfabeto_grafico
 
 ~~~Descrição
 Criação de um módulo para criar funções que representem letras e/ou números
