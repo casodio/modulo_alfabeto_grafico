@@ -2,7 +2,8 @@
 Feito em linguaguem Python
 ```
 
-~~~Descrição
+~~~
+Descrição
 Criação de um módulo para criar funções que representem letras e/ou números
 em plataforma gráfica usando a biblioteca turtle.
 Cada função representa uma letra ou número.
