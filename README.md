@@ -11,8 +11,9 @@ para usar, basta importar o módulo e chamar a função referente a
 letra ou numero desejado.
   </div>
 
-<div>
-><font color="yellow">Autor
+<div><font color = "black">
+>Autor
+  
 >>Autor: Marcio Maia
 
 </div>
