@@ -2,8 +2,8 @@
 🔨 Em Construção...
 
 <div>
-~~~Descrição
-~~~
+| Descrição |
+
   
 >>Criação de um módulo para criar funções que representem letras e/ou números
 em plataforma gráfica usando a biblioteca turtle.
@@ -13,9 +13,8 @@ letra ou numero desejado.
   </div>
 
 <div>
-~~~Autor
-~~~
+| Autor |
   
->>Autor: Marcio Maia
+>>Autor: [Marcio Maia](https://github.com/casodio)
 
 </div>
