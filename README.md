@@ -1,5 +1,5 @@
-# <fontcolor = 'blue'>modulo_alfabeto_grafico<fontcolor = 'white>
-criação de um modulo grafico com caracteres alfabeticos
+# modulo_alfabeto_grafico
+
 Autor: Marcio Maia
 
 Criação de um módulo para criar funções que representem letras e/ou números em plataforma gráfica usando a biblioteca turtle.
