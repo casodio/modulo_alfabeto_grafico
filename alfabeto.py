@@ -56,3 +56,86 @@ def b():
     t.right(180)
     t.forward(50)
 
+# letra E
+def e():
+    t.color('black')
+    t.forward(90)
+    t.backward(90)
+    t.left(90)
+    t.forward(100)
+    t.right(90)
+    t.forward(90)
+    t.backward(90)
+    t.left(90)
+    t.backward(50)
+    t.right(90)
+    t.forward(70)
+    t.backward(70)
+    t.left(90)
+    t.backward(50)
+    t.right(90)
+    t.forward(92)
+    t.color('white')
+    t.forward(48)
+
+# letra L
+def l():
+    t.color('black')
+    t.left(90)
+    t.forward(100)
+    t.backward(100)
+    t.right(90)
+    t.forward(82)
+    t.color('white')
+    t.forward(58)
+
+# letra F
+def f():
+    t.color('black')
+    t.left(90)
+    t.forward(100)
+    t.right(90)
+    t.forward(90)
+    t.backward(90)
+    t.left(90)
+    t.backward(50)
+    t.right(90)
+    t.forward(75)
+    t.backward(75)
+    t.left(90)
+    t.backward(50)
+    t.right(90)
+    t.forward(3)
+    t.color('white')
+    t.forward(147)
+
+
+# letra H
+def h():
+    t.color('black')
+    t.left(90)
+    t.forward(100)
+    t.backward(50)
+    t.right(90)
+    t.forward(90)
+    t.left(90)
+    t.forward(50)
+    t.backward(100)
+    t.right(90)
+    t.forward(3)
+    t.color('white')
+    t.forward(48)
+
+
+# letra I
+def i():
+    t.color('white')
+    t.forward(45)
+    t.left(90)
+    t.color('black')
+    t.forward(100)
+    t.backward(100)
+    t.right(90)
+    t.forward(3)
+    t.color('white')
+    t.forward(142)
