@@ -1,14 +1,21 @@
 🚧 **Em Construção...** 🛠️
 
-Para testa-lo, basta copiar o codigo e colar em seu editor de texto salvando com a extenxão '.py', bastando apenas importar no projeto e chamar a função refente a letra escolhida.
+Para testa-lo, basta copiar o codigo e colar em seu editor de texto salvando com a extenxão '.py', bastando apenas importar no projeto e chamar a função refente a letra escolhida podendo escolher mais uma letra e não somente uma.
 
 Ex (importando o módulo em um novo projeto):
 
 ```
-from modulo_alfabeto_grafico import *
+import modulo_alfabeto_grafico
 
 #chamando a função
 a()
+
+ou
+p()
+r()
+
+ou
+d(), e(), v()
 ``` 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Letras disponíves até o momento:
@@ -36,6 +43,8 @@ Letras disponíves até o momento:
 - [ ]  V
 - [ ]  X
 - [ ]  Z
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Descrição | Autor |
 :----------  | :----------
